@@ -133,7 +133,6 @@ class MandelbrotApp:
         y_min_mapped = self.ymin + (y_min / self.height) * (self.ymax - self.ymin)
         y_max_mapped = self.ymin + (y_max / self.height) * (self.ymax - self.ymin)
 
-        # Update zoom area
         self.xmin, self.xmax = x_min_mapped, x_max_mapped
         self.ymin, self.ymax = y_min_mapped, y_max_mapped
 
