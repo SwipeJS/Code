@@ -1,4 +1,4 @@
-Simple Mandelbrot Set Viewer
+Simple Mandelbrot Set Viewer (Julia Set Viewer included as well)
 
 Features: 
 - Area Select Zoom
